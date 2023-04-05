@@ -1,7 +1,16 @@
+/**
+ @module Pages
+*/
+
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 
+/**
+
+    The main function for the React App component.
+    @returns {JSX.Element} The JSX element representing the App component.
+*/
 function App() {
   return (
     <div className="App">
